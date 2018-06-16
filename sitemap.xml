@@ -3,60 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>dvontrecoleman.com/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2018-06-15T19:39:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>dvontrecoleman.com/resume/show/</loc>
+    <loc>/resume/show/</loc>
     <lastmod>2018-06-15T19:39:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>dvontrecoleman.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>dvontrecoleman.com/tags/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>dvontrecoleman.com/categories/about/</loc>
+    <loc>/tags/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dvontrecoleman.com/categories/</loc>
+    <loc>/categories/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dvontrecoleman.com/projects/csscolorselector/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>dvontrecoleman.com/</loc>
+    <loc>/projects/csscolorselector/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2018-06-15T19:39:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dvontrecoleman.com/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2018-06-15T19:39:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>dvontrecoleman.com/projects/sprinkleofjeezy/</loc>
+    <loc>/projects/sprinkleofjeezy/</loc>
   </url>
   
   <url>
-    <loc>dvontrecoleman.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
