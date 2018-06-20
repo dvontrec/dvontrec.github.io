@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/csscolorselector/</guid>
-      <description>This started as a way to prove to myself that I could make a website without the use of any libraries or frameworks. I planned on going to the pool with my friends, for memorial day, but wanted to accomplish something technical so that the day would not be wasted. In my work with D3 I learned to manipulate the DOM when a slider changed so I used the knowledge gained from that to manipulate the entire background of the body.</description>
+      <description>This started as a way to prove to myself that I could make a website without the use of any libraries or frameworks. I planned on going to the pool with my friends, for memorial day, but wanted to accomplish something technical so that the day would not be wasted. In my work with D3 I learned to manipulate the DOM when a slider changed. With this knowledge I create a system that changes the background RGBA to match the values of the Red, Green, Blue, and Alpha sliders.</description>
     </item>
     
     <item>
