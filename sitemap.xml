@@ -3,64 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/projects/</loc>
+    <loc>uild/projects/</loc>
     <lastmod>2018-06-15T19:39:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/resume/show/</loc>
+    <loc>uild/resume/show/</loc>
     <lastmod>2018-06-15T19:39:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>uild/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/about/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/about/</loc>
+    <loc>uild/tags/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/areyouhiring/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>uild/categories/about/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/csscolorselector/</loc>
+    <loc>uild/projects/areyouhiring/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>uild/projects/csscolorcreator/</loc>
+  </url>
+  
+  <url>
+    <loc>uild/categories/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>uild/</loc>
     <lastmod>2018-06-15T19:39:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/resume/</loc>
+    <loc>uild/resume/</loc>
     <lastmod>2018-06-15T19:39:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/sprinkleofjeezy/</loc>
+    <loc>uild/projects/sprinkleofjeezy/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>uild/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
