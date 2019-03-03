@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Dvontre Coleman</title>
-    <link>uild/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Dvontre Coleman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 15 Jun 2018 19:39:54 -0400</lastBuildDate>
     
-	<atom:link href="uild/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Are You Hiring</title>
-      <link>uild/projects/areyouhiring/</link>
+      <link>/projects/areyouhiring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>uild/projects/areyouhiring/</guid>
+      <guid>/projects/areyouhiring/</guid>
       <description>This is a project I had seen on blog posts about projects similar to this, so I knew this would be something I created. This project is broken up into 2 parts. The first part i built was a python web crawler that uses beautiful soup to crawl the jobs on indeed that are entry level Software Engineering jobs in Louisville, Kentucky. The program grabs the job, job title, job summary, and the link to the posting and saves them into a csv file.</description>
     </item>
     
     <item>
       <title>CSS Color Creator</title>
-      <link>uild/projects/csscolorcreator/</link>
+      <link>/projects/csscolorcreator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>uild/projects/csscolorcreator/</guid>
+      <guid>/projects/csscolorcreator/</guid>
       <description>While working on my full stack application development skills, I decided to create a new application using React for a frontend and Google’s Golang as an API server. The result was the CSS Color Creator. This application allows visitors to register new accounts in order to create colors. Creating colors allows users to give colors any name they’d like. Logged in users also have the ability to add colors to their favorites, for quick access.</description>
     </item>
     
     <item>
       <title>Sprinkle of Jeezy</title>
-      <link>uild/projects/sprinkleofjeezy/</link>
+      <link>/projects/sprinkleofjeezy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>uild/projects/sprinkleofjeezy/</guid>
+      <guid>/projects/sprinkleofjeezy/</guid>
       <description>I consider Sprinkle of Jeezy to be my baby. I came up with the idea when I first started programming, after seeing a similar app gain popularity on twitter, but at the time I had no knowledge of how to make it. After completing Colt Steele&#39;s Web Develeper Bootcamp course on Udemy, I knew enough to be dangerous. The application&#39;s home page uses an AJAX call to display randomly selected quotes stored in the backend database.</description>
     </item>
     
